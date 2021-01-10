@@ -39,8 +39,8 @@
 
   <div class="col">
     <h1> Web Shop</h1>
-    <p> Jaci smo od Doppera</p>
-    <p> 033-225-883 Sejo Kalac </p>
+    <p> Hvala na povjerenju</p>
+    <p> 033-225-883</p>
   </div>
 </div>  
 @endsection
